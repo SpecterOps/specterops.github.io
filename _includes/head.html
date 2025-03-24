@@ -166,6 +166,9 @@
   <link rel="icon" href="{{ '/favicon.png' | relative_url }}" />
   {% endif %}
 
+  <script defer data-domain="specterops.github.com" src="https://plausible.io/js/script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js"></script>
+  <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+
   {% if page.head-extra %}
     {% for file in page.head-extra %}
       {% include {{ file }} %}
