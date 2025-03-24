@@ -38,6 +38,7 @@ navbar-links:
     - SharpSploit: "sharpsploit"
     - StayKit: "staykit"
   Homepage: "https://specterops.io"
+  GitHub: "https://github.com/specterops"
 
 ################
 # --- Logo --- #
