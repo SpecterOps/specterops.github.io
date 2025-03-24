@@ -1,0 +1,148 @@
+[ 
+ 
+ 
+{ 
+"title"    : "BloodHound", 
+"desc"     : "BloodHound", 
+"category" : "page", 
+"url"      : "/bloodhound/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Covenant", 
+"desc"     : "Covenant", 
+"category" : "page", 
+"url"      : "/covenant/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Cruciclbe C2", 
+"desc"     : "Cruciclbe C2", 
+"category" : "page", 
+"url"      : "/crucible/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "CS2 Modrewrite", 
+"desc"     : "CS2 Modrewrite", 
+"category" : "page", 
+"url"      : "/cs2modrewrite/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Empire (Retired)", 
+"desc"     : "Empire (Retired)", 
+"category" : "page", 
+"url"      : "/empire/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Ghostwriter", 
+"desc"     : "Ghostwriter", 
+"category" : "page", 
+"url"      : "/ghostwriter/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "SpecterOps Open-Source Projects", 
+"desc"     : "SpecterOps Open-Source Projects", 
+"category" : "page", 
+"url"      : "/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Malleable C2", 
+"desc"     : "Malleable C2", 
+"category" : "page", 
+"url"      : "/malleablec2/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Merlin", 
+"desc"     : "Merlin", 
+"category" : "page", 
+"url"      : "/merlin/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Misconfiguration Manager", 
+"desc"     : "Misconfiguration Manager", 
+"category" : "page", 
+"url"      : "/misconfigurationmanager/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Mythic C2", 
+"desc"     : "Mythic C2", 
+"category" : "page", 
+"url"      : "/mythic/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Nemesis", 
+"desc"     : "Nemesis", 
+"category" : "page", 
+"url"      : "/nemesis/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "PowerSploit (Retired)", 
+"desc"     : "PowerSploit (Retired)", 
+"category" : "page", 
+"url"      : "/powersploit/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Sharp RDP", 
+"desc"     : "Sharp RDP", 
+"category" : "page", 
+"url"      : "/sharprdp/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "SharpSCCM", 
+"desc"     : "SharpSCCM", 
+"category" : "page", 
+"url"      : "/sharpsccm/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "SharpSploit", 
+"desc"     : "SharpSploit", 
+"category" : "page", 
+"url"      : "/sharpsploit/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Stay Kit", 
+"desc"     : "Stay Kit", 
+"category" : "page", 
+"url"      : "/staykit/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Tag Index", 
+"desc"     : "Tag Index", 
+"category" : "page", 
+"url"      : "/tags/", 
+"date"     : "January 1, 1970" 
+} 
+ 
+]

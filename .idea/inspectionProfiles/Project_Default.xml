@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="103" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="mythic" />
+            <item index="1" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="2" class="java.lang.String" itemvalue="redis" />
+            <item index="3" class="java.lang.String" itemvalue="graphql-core" />
+            <item index="4" class="java.lang.String" itemvalue="flask-migrate" />
+            <item index="5" class="java.lang.String" itemvalue="Flask-WTF" />
+            <item index="6" class="java.lang.String" itemvalue="markdown" />
+            <item index="7" class="java.lang.String" itemvalue="Flask-SQLAlchemy" />
+            <item index="8" class="java.lang.String" itemvalue="Flask" />
+            <item index="9" class="java.lang.String" itemvalue="flask_bootstrap" />
+            <item index="10" class="java.lang.String" itemvalue="ptyprocess" />
+            <item index="11" class="java.lang.String" itemvalue="pepy" />
+            <item index="12" class="java.lang.String" itemvalue="pexpect" />
+            <item index="13" class="java.lang.String" itemvalue="libmagic" />
+            <item index="14" class="java.lang.String" itemvalue="javaobj-py3" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ghostwriter.home.views.django_q" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
