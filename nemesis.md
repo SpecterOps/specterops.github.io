@@ -11,7 +11,7 @@ title: Nemesis
 ![Nemesis](/assets/img/nemesis.png)
 {: refdef}
 
-Nemesis is a centralized data processing platform that ingests, enriches, and performs analytics on offensive security assessment data. It ingests data from a variety of sources (C2 frameworks, manual file uploads, Chrome downloads, etc.) and performs a number of automations and analytics on the collected data. It is a SpecterOps R&D project aiming to automate a number of repetitive tasks operators encounter on engagements, empower operators' analytic capabilities and collective knowledge, and create data stores of as much operational data as possible to help guide future research and facilitate offensive data analysis.
+Nemesis 2.0 functions as an "offensive VirusTotal," automatically processing files collected during security assessments through an extensive pipeline of specialized analyzers. Going beyond basic static analysis, it performs deep inspection and indexing of common file types encountered during offensive operations - including Office documents, file archives, executables, configuration files, and many other data store formats. Nemesis automatically processes each file for password/secret extraction, vulnerability identification, indicators of defensive monitoring, "useful" information extraction, and more. Nemesis' web frontend focuses on operators' triage workflow, allowing teams to quickly and effectively sift through huge numbers of files and findings.
 
 |Resource|Link|
 | :--- | :--- |

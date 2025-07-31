@@ -11,7 +11,7 @@ title: SharpSCCM
 ![SharpSCCM](/assets/img/sharpsccm.png)
 {:refdef}
 
-SharpSCCM is a post-exploitation tool designed to leverage Microsoft Endpoint Configuration Manager (a.k.a. ConfigMgr, formerly SCCM) for lateral movement and credential gathering without requiring access to the SCCM administration console GUI.
+SharpSCCM is an open-source C# post-exploitation tool designed to leverage Microsoft Configuration Manager (a.k.a. ConfigMgr, formerly SCCM) for lateral movement and credential gathering without requiring access to the SCCM administration console GUI. It was initially created to execute user hunting and lateral movement functions ported from PowerSCCM (by @harmj0y, @jaredcatkinson, @enigma0x3, and @mattifestation) from a C2 agent and contains additional functionality to abuse newly discovered attack primitives for recon, authentication coercion, credential gathering, and arbitrary remote code execution via application deployment or PowerShell on SCCM client devices and servers.
 
 |Resource|Link|
 | :--- | :--- |

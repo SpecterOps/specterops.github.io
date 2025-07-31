@@ -11,7 +11,10 @@ title: Merlin
 ![Merlin](/assets/img/merlin.png)
 {:refdef}
 
-Merlin is a cross-platform post-exploitation Command & Control server and agent written in Go.
+Merlin is a cross-platform post-exploitation Command & Control server and agent written in Go. Both components can be
+compiled to run on any platform. A server compiled to run on Linux, or any platform, can handle agents compiled for all
+other platforms. You can use the Merlin server and agent on its own or install Merlin as an agent in Mythic, a
+collaborative, multi-platform, and multi-agent red teaming framework.
 
 |Resource|Link|
 | :--- | :--- |

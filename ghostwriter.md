@@ -11,7 +11,16 @@ title: Ghostwriter
 ![Ghostwriter](/assets/img/ghostwriter.png)
 {: refdef}
 
-Ghostwriter is a part of your team. It helps you manage clients, projects, reports, and infrastructure in one application. It does not replace some of the more common or traditional project management tools, such as CRMs. Still, it does consolidate all relevant project information in a way for users to easily curate every aspect of their projects.
+Ghostwriter is an open-source platform that enhances offensive security operations by streamlining reporting,
+asset tracking, and assessment management. It provides tools for managing clients, developing findings in a library that
+can be used across multiple assessments, and organizing infrastructure and domains used during assessments.
+Ghostwriter's powerful reporting engine includes customizable report templates that use the Jinja2 templating engine,
+enabling teams to produce polished deliverables with minimal manual effort.
+
+Further, Ghostwriter supports integrations with tools like Mythic C2 and Cobalt Strike allow for automatic activity
+logging, role-based access controls, and single sign-on for authentication. These features make Ghostwriter an ideal
+centralized and collaborative environment for red teams and consultants to efficiently plan, execute, and document
+their assessments.
 
 |Resource| Link                                          |
 | :--- |:----------------------------------------------|

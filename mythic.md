@@ -11,7 +11,9 @@ title: Mythic C2
 ![Mythic](/assets/img/mythic.png)
 {: refdef}
 
-A cross-platform, post-exploit, red teaming framework built with python3, docker, docker-compose, and a web browser UI. It's designed to provide a collaborative and user friendly interface for operators, managers, and reporting throughout red teaming.
+Mythic is an open-source Command and Control (C2) framework designed around a microservice architecture. It utilizes Docker Compose with a Golang server, RabbitMQ message broker, PostgreSQL database, and a React web interface to provide operators with extensibility and quality of life features. Mythic's interface offers multi-user support, customizable user preferences, RBAC controls, OPSEC checks, dynamic tab completion, and a powerful scripting capability that enables dynamic tables, file previews, and more, aligning with your task output.
+
+Mythic puts power in the hands of the operator with Python scripting libraries, Jupyter Notebooks, an interactive GraphQL explorer (via Hasura), and a custom eventing engine. Mythic doesn't include any agents or communication profiles; they're all dynamically installed based on your needs. Mythic supports agents across macOS, Linux, and Windows, as well as more unique requirements, such as Webshells, Chrome extensions, and agents that interact with third-party services like BloodHound, Ghostwriter, Nemesis, and VECTR.
 
 |Resource| Link                                    |
 | :--- |:----------------------------------------|
